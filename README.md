@@ -5,3 +5,5 @@ Este proyecto tiene como objetivo facilitar la adopción de perros y gatos a tra
 ## Propósito del Proyecto
 
 El propósito de esta plataforma es optimizar la gestión de adopciones y centralizar la información de los animales disponibles en el refugio, mejorando la comunicación con los adoptantes y la eficiencia operativa del refugio.
+
+Al codigo le falta todavia por completar pero de aqui a una semana aprox ya estaria hecho por ejemplo todo o la mayoria del html para ya a empezar a levantar la pagina
